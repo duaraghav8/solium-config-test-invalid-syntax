@@ -1,0 +1,26 @@
+{
+  "name": "solium-config-test-invalid-syntax",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duaraghav8/solium-config-test-invalid-syntax.git"
+  },
+  "keywords": [
+    "solium",
+    "soliumconfig"
+  ],
+  "author": "Raghav Dua <duaraghav8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duaraghav8/solium-config-test-invalid-syntax/issues"
+  },
+  "homepage": "https://github.com/duaraghav8/solium-config-test-invalid-syntax#readme",
+  "peerDependencies": {
+    "solium": "^1.0.0"
+  }
+}
